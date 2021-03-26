@@ -1,2 +1,2 @@
-# BeginnerPythonPNIPU
-firstProject
+# BeginnerPython
+ProjectPNIPU
